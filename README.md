@@ -1,5 +1,5 @@
 # 3d-model-rendering-with-OpenGL
-Plotting a Model by Reading 3D Point Cloud, Normal, Polygon, and Texture Information Using OpenGL
+Plotting 3d Model by Reading 3D Point Cloud, Normal, Polygon, and Texture Information Using OpenGL
 
 ![plotting](src/plotting.png)
 
